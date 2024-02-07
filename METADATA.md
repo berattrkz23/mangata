@@ -2,6 +2,6 @@
   "name": "macish23",
   "website": "https://github.com/berattrkz23",
   "description": "eyyy",
-  "logo": "https://img.imgyukle.com/2024/02/08/ymGkly.png",
+  "logo": "[https://r.resimlink.com/_iutn5IcZF4x.png",
   "twitter": "https://x.com/macish23"
 }
